@@ -1,4 +1,6 @@
 # TalkToMe-ML-NLP-SwiftUI
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+
 ## A ML and NLP based App written in SwiftUI
 
 
